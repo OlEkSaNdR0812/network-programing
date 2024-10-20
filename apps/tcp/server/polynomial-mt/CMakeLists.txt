@@ -1,4 +1,4 @@
-﻿project("polynomial-mt-client")
+﻿project("polynomial-mt-server")
 
 include_directories(include)
 
